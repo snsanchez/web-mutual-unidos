@@ -74,8 +74,9 @@ nav#nav,
 
 .titulo {
   margin-left: 20px;
-  font-size: 1.5em;
+  font-size: 1.4em;
   color: #444;
+  width: 245px; /*245px para titulo en una sola linea*/
 }
 
 .nav-links {
@@ -92,12 +93,12 @@ nav#nav,
   margin-right: 20px;
   font-weight: bold;
 }
-
-/*PRIMERA PAGINA*/
-
 #main-content {
   margin-bottom: 50px;
 }
+
+/*PRIMERA PAGINA*/
+
 
 .p_bienvenida {
   margin-bottom: 23px;
@@ -231,13 +232,14 @@ footer p {
   .titulo {
     margin-left: 10px;
     font-size: 0.9em;
+    width: 200px; 
   }
 
   .nav-links {
     margin-left: auto;
   }
   .nav-links {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 
   #container {
