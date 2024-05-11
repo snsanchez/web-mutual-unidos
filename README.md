@@ -2,7 +2,8 @@ Web de la Mutual Escolar "Unidos"
 
 ¡Bienvenido a la web de la Mutual Escolar "Unidos"!
 
-Esta página web fue creada para informar a la comunidad estudiantil y a la comunidad en general sobre las actividades, servicios y valores de nuestra mutual escolar. A través de esta plataforma, buscamos darnos a conocer y establecer puntos de contacto con otras organizaciones,
+Esta página web fue creada para informar a la comunidad estudiantil y a la comunidad en general sobre las actividades, servicios y valores de nuestra mutual escolar. A través de esta plataforma, buscamos darnos a conocer y establecer puntos de contacto con otras organizaciones.
+En la pagina podras encontras secciones utiles como:
 
 
     Nosotros: Conoce más sobre nuestra mutual, nuestra historia, objetivos y valores.
